@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Databricks**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Data Engineering projects**
 
 - 📫 How to reach me **zermeno.monserrat@gmail.com**
 
